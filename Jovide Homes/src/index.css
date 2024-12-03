@@ -1,0 +1,99 @@
+/* Tailwind Configurations */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Importing Font Families */
+/* @import url("https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap"); */
+
+.pt_serif {
+  font-family: "PT Serif", serif;
+}
+
+.pt_sans {
+  font-family: "PT Sans", sans-serif;
+}
+
+/* Modern, Simple, Thin Scrollbar */
+
+/* For WebKit browsers (Chrome, Safari) */
+::-webkit-scrollbar {
+  width: 8px; /* Width of the scrollbar */
+  height: 8px; /* Height of the scrollbar */
+}
+
+::-webkit-scrollbar-track {
+  background: #282939; /* Transparent background for the scrollbar track */
+}
+
+::-webkit-scrollbar-thumb {
+  background: #282939; /* Color of the scrollbar thumb */
+  border-radius: 4px; /* Rounded corners for the scrollbar thumb */
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #282939; /* Color of the scrollbar thumb on hover */
+}
+
+/* For Firefox */
+* {
+  scrollbar-width: thin; /* Makes the scrollbar thin */
+  scrollbar-color: #ffffff #282939; /* Color of the scrollbar thumb and transparent track */
+}
+
+.shadow_serivce_page_box {
+  box-shadow: 4px 4px 4px 0 #00000040;
+}
+
+.activePage::after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  background-color: #fff;
+  bottom: -5px;
+  left: 0;
+}
+.activePage::after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  background-color: #fff;
+  bottom: -5px;
+  left: 0;
+}
+.activePageMobile::after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  background-color: #282939;
+  bottom: -5px;
+  left: 0;
+}
+.menuItem:hover::after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  background-color: #fff;
+  bottom: -5px;
+  left: 0;
+}
+.menuItemMobile:hover::after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  background-color: #282939;
+  bottom: -5px;
+  left: 0;
+}
+::selection {
+  background-color: #28293936;
+  color: #fff;
+  
+}
