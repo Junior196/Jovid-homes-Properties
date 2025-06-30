@@ -153,9 +153,6 @@ function Footer() {
         </div>
         <div className="w-full bg-primary text-center py-4 px-2">
           <p className="text-xs sm:text-sm text-white">
-            EPC offers comprehensive Construction Management services with a
-            one-stop solution for clients seeking excellence in project
-            execution. Whether you're embarking… Source:{" "}
             <a
               href="https://search.app/bAzJFAcqEuQPGVW67"
               target="_blank"
@@ -293,9 +290,7 @@ function Footer() {
             </div>
             <div className="w-full bg-primary text-center py-4 px-2">
               <p className="text-xs sm:text-sm text-white">
-                EPC offers comprehensive Construction Management services with a
-                one-stop solution for clients seeking excellence in project
-                execution. Whether you're embarking… Source:{" "}
+              
                 <a
                   href="https://search.app/bAzJFAcqEuQPGVW67"
                   target="_blank"
