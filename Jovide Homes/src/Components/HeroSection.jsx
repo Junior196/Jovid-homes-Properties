@@ -18,7 +18,7 @@ const heroSlides = [
   {
     id: 2,
     bg: "/Home_Slides/home-slide-2.webp",
-    title: "12, Grove Road, Telford",
+    title: "Grove, Telford",
     description: "Telford, United Kingdom",
     buttonText: "View Property",
     buttonAction: "view-property",

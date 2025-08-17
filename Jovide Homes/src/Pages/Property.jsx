@@ -1,4 +1,3 @@
-import React from "react";
 import Divider from "../Components/Divider";
 import SInglePropertyGallerItem from "../Components/Properties/SInglePropertyGallerItem";
 export default function Property() {
@@ -21,7 +20,7 @@ export default function Property() {
       <div className="flex flex-col gap-10">
         <SInglePropertyGallerItem
           img="./Properties/p_1.webp"
-          address="12, Grove Road, Telford"
+          address="Grove, Telford"
           button_link="/grove-road"
         />
         <SInglePropertyGallerItem
