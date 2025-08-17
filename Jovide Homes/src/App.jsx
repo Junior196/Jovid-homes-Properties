@@ -65,9 +65,9 @@ function App() {
                 element={
                   <PropertyTemplate
                     propertyBannerRoute={"property_1_hero.webp"}
-                    addressHero={"Grove, Telford"}
+                    addressHero={"The Grove, Telford"}
                     para_1={
-                      "Grove in Telford is a semi-detached home located in a quiet and private area close to the Wrekin retail park and Telford town center. The property is conveniently situated near major transportation links, including the M54 motorway. "
+                      "The Grove in Telford is a semi-detached home located in a quiet and private area close to the Wrekin retail park and Telford town center. The property is conveniently situated near major transportation links, including the M54 motorway. "
                     }
                     para_2={
                       "The house features an entrance hall, guest cloakroom, kitchen, dining room, living room, and a conservatory on the ground floor. Upstairs, there are three bedrooms and a family bathroom. The exterior includes a private driveway with parking for multiple vehicles, a low-maintenance landscaped garden, a brick-built single garage, and an outdoor shed."

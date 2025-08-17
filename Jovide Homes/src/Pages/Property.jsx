@@ -20,7 +20,7 @@ export default function Property() {
       <div className="flex flex-col gap-10">
         <SInglePropertyGallerItem
           img="./Properties/p_1.webp"
-          address="Grove, Telford"
+          address="The Grove, Telford"
           button_link="/grove-road"
         />
         <SInglePropertyGallerItem
