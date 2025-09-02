@@ -95,13 +95,13 @@ function App() {
                     para_2={
                       "The house is typical of the suburban homes in Telford, offering comfortable living spaces ideal for families or individuals looking for a quiet neighbourhood with convenient access to the town's services and transportation links​."
                     }
-                    p_img_1={"./Properties/p_2_g_PC_1.webp"}
-                    p_img_2={"./Properties/p_2_g_PC_2.webp"}
-                    p_img_3={"./Properties/p_2_g_PC_3.webp"}
-                    p_img_4={"./Properties/p_2_g_PC_4.webp"}
-                    p_img_5={"./Properties/p_2_g_PC_5.webp"}
-                    p_img_6={"./Properties/p_2_g_PC_6.webp"}
-                    p_img_7={"./Properties/p_2_g_PC_7.webp"}
+                    p_img_1={"./dunshealth-gallery-1.webp"}
+                    p_img_2={"./dunshealth-gallery-2.webp"}
+                    p_img_3={"./dunshealth-gallery-3.webp"}
+                    p_img_4={"./dunshealth-gallery-4.webp"}
+                    p_img_5={"./dunshealth-gallery-5.webp"}
+                    p_img_6={"./dunshealth-gallery-6.webp"}
+                    p_img_7={"./dunshealth-gallery-7.webp"}
                   />
                 }
               />

@@ -30,7 +30,7 @@ function About() {
                   property ownership and management, delivering excellent
                   results with professionalism and care.
                 </p>
-                <button className="bg-secondary text-white px-6 py-3 w-full hover:bg-opacity-90 transition-all duration-300">
+                <button className="bg-secondary rounded-md text-white px-6 py-3 w-full hover:bg-opacity-90 transition-all duration-300">
                   More
                 </button>
               </div>
@@ -50,7 +50,7 @@ function About() {
               ownership and management, delivering excellent results with
               professionalism and care.
             </p>
-            <button className="bg-secondary text-white px-6 py-3 w-full hover:bg-opacity-90 transition-all duration-300">
+            <button className="bg-secondary text-white px-6 py-3 w-full hover:bg-opacity-90 transition-all duration-300 rounded-md">
               More
             </button>
           </div>

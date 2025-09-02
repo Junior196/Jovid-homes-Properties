@@ -1,26 +1,3 @@
-// import React from "react";
-
-// function SingleAboutUsBox({ icon, title, description }) {
-//   return (
-//     <>
-//       <div className="flex flex-col items-center justify-center flex-1 flex-grow gap-3 px-3 pl-5 bg-white border border-black shadow_about_page_box py-9 ">
-//         <img loading="lazy"  src={icon} className="w-[60px]" alt={title} />
-//         <div>
-//           <h4 className="font-bold  pt_serif text-[24px]">{title}</h4>
-//         </div>
-//         <div>
-//           <p
-//             dangerouslySetInnerHTML={{ __html: description }}
-//             className="pt_sans text-[20px]"
-//           ></p>
-//         </div>
-//       </div>
-//     </>
-//   );
-// }
-
-// export default SingleAboutUsBox;
-import React from "react";
 
 function SingleAboutUsBox({ icon, title, description }) {
   return (

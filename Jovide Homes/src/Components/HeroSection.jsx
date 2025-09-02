@@ -150,7 +150,7 @@ const SlideContent = ({ slide }) => {
         {/* CTA Button */}
         <button
           onClick={handleButtonClick}
-          className="inline-flex items-center space-x-2 bg-secondary hover:bg-primary text-white font-semibold rounded-lg px-8 py-4 transition-all duration-300 hover:shadow-xl hover:scale-105 animate-fade-in-up animation-delay-1000 group transform"
+          className="inline-flex items-center space-x-2 bg-secondary hover:bg-primary text-white font-semibold rounded-md px-8 py-4 transition-all duration-300 hover:shadow-xl hover:scale-105 animate-fade-in-up animation-delay-1000 group transform"
         >
           <span>{slide.buttonText}</span>
           <ArrowRight className="w-5 h-5 transition-transform duration-300 group-hover:translate-x-1" />

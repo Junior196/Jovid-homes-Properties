@@ -107,7 +107,7 @@ function DarkHeader({ page }) {
                     onClick={togglePropertiesDropdown}
                     className={`
                       flex items-center space-x-2 px-4 py-2 text-sm font-medium tracking-wide
-                      transition-all duration-300 ease-in-out rounded-lg group
+                      transition-all duration-300 ease-in-out rounded-md group
                       hover:bg-white hover:bg-opacity-10 focus:outline-none focus:ring-2 focus:ring-secondary
                       ${
                         currentPage === "properties"
@@ -194,7 +194,7 @@ function DarkHeader({ page }) {
               <Link
                 to="/contact"
                 className={`
-                  inline-flex items-center space-x-2 px-6 py-3 text-sm font-bold tracking-wide rounded-xl
+                  inline-flex items-center space-x-2 px-6 py-3 text-sm font-bold tracking-wide rounded-md
                   transition-all duration-300 ease-in-out transform hover:scale-105 hover:shadow-lg group
                   focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-secondary
                   ${
@@ -233,7 +233,7 @@ function DarkHeader({ page }) {
             {/* Mobile Menu Button */}
             <button
               onClick={showMenu}
-              className="p-2 text-white hover:text-secondary focus:outline-none focus:ring-2 focus:ring-secondary rounded-lg transition-all duration-200 hover:bg-white hover:bg-opacity-10"
+              className="p-2 text-white hover:text-secondary focus:outline-none focus:ring-2 focus:ring-secondary rounded-md transition-all duration-200 hover:bg-white hover:bg-opacity-10"
               aria-label="Toggle menu"
             >
               {isShowMenu ? (
@@ -264,7 +264,7 @@ function DarkHeader({ page }) {
               <button
                 onClick={toggleMobileProperties}
                 className={`
-                  flex items-center justify-between w-full px-4 py-3 text-left text-base font-medium rounded-lg
+                  flex items-center justify-between w-full px-4 py-3 text-left text-base font-medium rounded-md
                   transition-all duration-200 hover:bg-white hover:bg-opacity-10 focus:outline-none focus:bg-white focus:bg-opacity-10
                   ${
                     currentPage === "properties"
@@ -360,7 +360,7 @@ function DarkHeader({ page }) {
           <div className="px-4 pb-6 pt-2 border-t border-white border-opacity-10">
             <Link
               to="/contact"
-              className="flex items-center justify-center space-x-2 w-full px-4 py-3 text-center text-sm font-bold text-white bg-secondary rounded-xl hover:bg-white hover:text-primary focus:outline-none focus:ring-2 focus:ring-secondary transition-all duration-200 transform hover:scale-105 shadow-lg group"
+              className="flex items-center justify-center space-x-2 w-full px-4 py-3 text-center text-sm font-bold text-white bg-secondary rounded-md hover:bg-white hover:text-primary focus:outline-none focus:ring-2 focus:ring-secondary transition-all duration-200 transform hover:scale-105 shadow-lg group"
             >
               <Phone className="w-4 h-4 transition-transform duration-300 group-hover:rotate-12" />
               <span>GET IN TOUCH</span>
