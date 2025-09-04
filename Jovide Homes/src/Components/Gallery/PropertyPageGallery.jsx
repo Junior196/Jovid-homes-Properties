@@ -54,7 +54,7 @@ export default function PropertyPageGallery({
           </div>
 
           {/* Middle row - Three thumbnails */}
-          <div className="grid grid-cols-2 md:grid-cols-3 gap-3 md:gap-4">
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-3 md:gap-4">
             <div className="aspect-[4/3] overflow-hidden rounded-xl shadow-md">
               <img
                 src={image3}
@@ -73,7 +73,7 @@ export default function PropertyPageGallery({
                 {...deferredAttrs}
               />
             </div>
-            <div className="aspect-[4/3] overflow-hidden rounded-xl shadow-md col-span-2 md:col-span-1">
+            <div className="aspect-[4/3] overflow-hidden rounded-xl shadow-md ">
               <img
                 src={image5}
                 alt="Property image 5"
