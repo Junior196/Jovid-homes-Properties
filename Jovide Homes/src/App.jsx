@@ -88,9 +88,9 @@ function App() {
                 element={
                   <PropertyTemplate
                     propertyBannerRoute={"property_2_hero.webp"}
-                    addressHero={"46, Dunshealth, Telford"}
+                    addressHero={" Dunshealth, Telford"}
                     para_1={
-                      "46 Dunsheath, Telford, is a semi-detached house situated in the TF3 2BX postcode area.  It is located in a residential area with various amenities nearby, including schools, parks, and shopping facilities. "
+                      "Dunsheath, Telford, is a semi-detached house situated in the TF3 2BX postcode area.  It is located in a residential area with various amenities nearby, including schools, parks, and shopping facilities. "
                     }
                     para_2={
                       "The house is typical of the suburban homes in Telford, offering comfortable living spaces ideal for families or individuals looking for a quiet neighbourhood with convenient access to the town's services and transportation links​."
@@ -110,13 +110,13 @@ function App() {
                 element={
                   <PropertyTemplate
                     propertyBannerRoute={"property_3_hero.webp"}
-                    addressHero={"55, Hadley Park, Telford"}
+                    addressHero={" Hadley Park, Telford"}
                     para_1={
-                      "55 Hadley Park, Telford, is a residential address located in the Hadley area of Telford, a town in Shropshire, England. Hadley Park is known for being a mixed-use area with a blend of residential homes and local businesses."
+                      "Hadley Park, Telford, is a residential address located in the Hadley area of Telford, a town in Shropshire, England. Hadley Park is known for being a mixed-use area with a blend of residential homes and local businesses."
                     }
                     para_2={`Step into the newly renovated kitchen at 55 Hadley Park Road, where modern functionality meets sleek design. This transformation enhances the heart of the home, making it perfect for cooking, entertaining, and everyday family life.
                       
-The staircase at 55 Hadley Park Road has been transformed into a stunning feature that seamlessly connects the home's design while adding elegance and character to the entryway.
+The staircase at Hadley Park Road has been transformed into a stunning feature that seamlessly connects the home's design while adding elegance and character to the entryway.
 It has been painted in a soft, neutral tone that complements the overall decor of the home. This colour choice not only brings sophistication but also ties the stairwell harmoniously with both upper and lower level.
 `}
                     p_img_1={"./Properties/p_3_g_PC_1.webp"}
