@@ -114,7 +114,7 @@ function App() {
                     para_1={
                       "Hadley Park, Telford, is a residential address located in the Hadley area of Telford, a town in Shropshire, England. Hadley Park is known for being a mixed-use area with a blend of residential homes and local businesses."
                     }
-                    para_2={`Step into the newly renovated kitchen at 55 Hadley Park Road, where modern functionality meets sleek design. This transformation enhances the heart of the home, making it perfect for cooking, entertaining, and everyday family life.
+                    para_2={`Step into the newly renovated kitchen at Hadley Park Road, where modern functionality meets sleek design. This transformation enhances the heart of the home, making it perfect for cooking, entertaining, and everyday family life.
                       
 The staircase at Hadley Park Road has been transformed into a stunning feature that seamlessly connects the home's design while adding elegance and character to the entryway.
 It has been painted in a soft, neutral tone that complements the overall decor of the home. This colour choice not only brings sophistication but also ties the stairwell harmoniously with both upper and lower level.
