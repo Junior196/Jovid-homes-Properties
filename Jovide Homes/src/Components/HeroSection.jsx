@@ -26,7 +26,7 @@ const heroSlides = [
   {
     id: 3,
     bg: "/Home_Slides/home-slide-3.webp",
-    title: "46, Dunshealth, Telford",
+    title: "Dunshealth, Telford",
     description: "Telford, United Kingdom",
     buttonText: "View Property",
     buttonAction: "view-property",
@@ -34,7 +34,7 @@ const heroSlides = [
   {
     id: 4,
     bg: "./Home_Slides/home-slide-4.webp",
-    title: "55, Hadley Park, Telford",
+    title: "Hadley Park, Telford",
     description: "Telford, United Kingdom",
     buttonText: "View Property",
     buttonAction: "view-property",

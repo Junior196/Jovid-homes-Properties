@@ -25,12 +25,12 @@ export default function Property() {
         />
         <SInglePropertyGallerItem
           img="./Properties/p_2.webp"
-          address="46, Dunsheath, Telford"
+          address="Dunsheath, Telford"
           button_link="/dunshealth"
         />
         <SInglePropertyGallerItem
           img="./Properties/p_3.webp"
-          address="55, Hadley Park, Telford"
+          address="Hadley Park, Telford"
           button_link="/hadley-park"
         />
       </div>
